@@ -1,0 +1,178 @@
+[
+  {
+    "surname": "Петров",
+    "year": 1995,
+    "address": {
+      "city": "Орехово-Зуево",
+      "street": "Балканская",
+      "house": 159,
+      "apartment": 151
+    },
+    "workPlace": "МеталСофтЭлектро"
+  },
+  {
+    "surname": "Куликовa",
+    "year": 1991,
+    "address": {
+      "city": "Солнечногорск",
+      "street": "Киренского",
+      "house": 169,
+      "apartment": 2
+    },
+    "workPlace": "АлмазУралНефтьМаш"
+  },
+  {
+    "surname": "Кулагинa",
+    "year": 1989,
+    "address": {
+      "city": "Зарайск",
+      "street": "Ломоносова",
+      "house": 109,
+      "apartment": 25
+    },
+    "workPlace": "КГТУ"
+  },
+  {
+    "surname": "Гришинa",
+    "year": 1993,
+    "address": {
+      "city": "Москва",
+      "street": "Чехова",
+      "house": 192,
+      "apartment": 113
+    },
+    "workPlace": "КГТУ"
+  },
+  {
+    "surname": "Большаков",
+    "year": 1988,
+    "address": {
+      "city": "Луховицы",
+      "street": "Чехова",
+      "house": 100,
+      "apartment": 91
+    },
+    "workPlace": "КГТУ"
+  },
+  {
+    "surname": "Селиверстовa",
+    "year": 1993,
+    "address": {
+      "city": "Красноярск",
+      "street": "Киренского",
+      "house": 178,
+      "apartment": 231
+    },
+    "workPlace": "Компания ЛифтСофт"
+  },
+  {
+    "surname": "Наумовa",
+    "year": 1973,
+    "address": {
+      "city": "Красноярск",
+      "street": "Ломоносова",
+      "house": 59,
+      "apartment": 93
+    },
+    "workPlace": "ГорСевер"
+  },
+  {
+    "surname": "Бобылёвa",
+    "year": 1980,
+    "address": {
+      "city": "Красноярск",
+      "street": "Гагарина",
+      "house": 160,
+      "apartment": 226
+    },
+    "workPlace": "ЦементМорГазОпт"
+  },
+  {
+    "surname": "Романов",
+    "year": 1983,
+    "address": {
+      "city": "Красногорск",
+      "street": "Киренского",
+      "house": 43,
+      "apartment": 5
+    },
+    "workPlace": "ТелекомГлавГаражЭкспедиция"
+  },
+  {
+    "surname": "Ермаков",
+    "year": 1972,
+    "address": {
+      "city": "Красноярск",
+      "street": "Киренского",
+      "house": 38,
+      "apartment": 57
+    },
+    "workPlace": "МясПив"
+  },
+  {
+    "surname": "Русаков",
+    "year": 1982,
+    "address": {
+      "city": "Дорохово",
+      "street": "1905 года",
+      "house": 36,
+      "apartment": 169
+    },
+    "workPlace": "Урал"
+  },
+  {
+    "surname": "Пономарёвa",
+    "year": 1977,
+    "address": {
+      "city": "Наро-Фоминск",
+      "street": "Косиора",
+      "house": 45,
+      "apartment": 41
+    },
+    "workPlace": "АлмазРадиоЛен-H"
+  },
+  {
+    "surname": "Блохинa",
+    "year": 1984,
+    "address": {
+      "city": "Видное",
+      "street": "Гагарина",
+      "house": 41,
+      "apartment": 153
+    },
+    "workPlace": "Микро"
+  },
+  {
+    "surname": "Михайловa",
+    "year": 1975,
+    "address": {
+      "city": "Подольск",
+      "street": "Славы",
+      "house": 188,
+      "apartment": 170
+    },
+    "workPlace": "Метал"
+  },
+  {
+    "surname": "Алексеевa",
+    "year": 2003,
+    "address": {
+      "city": "Мытищи",
+      "street": "Киренского",
+      "house": 52,
+      "apartment": 87
+    },
+    "workPlace": "ХозРыбЮпитер"
+  },
+  {
+    "surname": "Харитонов",
+    "year": 1971,
+    "address": {
+      "city": "Одинцово",
+      "street": "Ленина",
+      "house": 115,
+      "apartment": 95
+    },
+    "workPlace": "ХмельХозЛен-М"
+  }
+]
