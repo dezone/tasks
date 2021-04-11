@@ -1,0 +1,82 @@
+[
+  {
+    "surname": "Фадеев",
+    "subject": "Математика",
+    "mark": 5
+  },
+  {
+    "surname": "Ситниковa",
+    "subject": "Программирование",
+    "mark": 3
+  },
+  {
+    "surname": "Фадеев",
+    "subject": "История",
+    "mark": 4
+  },
+  {
+    "surname": "Бирюковa",
+    "subject": "Физика",
+    "mark": 4
+  },
+  {
+    "surname": "Фадеев",
+    "subject": "Программирование",
+    "mark": 5
+  },
+  {
+    "surname": "Лобанов",
+    "subject": "Программирование",
+    "mark": 2
+  },
+  {
+    "surname": "Лобанов",
+    "subject": "Математика",
+    "mark": 4
+  },
+  {
+    "surname": "Фадеев",
+    "subject": "Физика",
+    "mark": 4
+  },
+  {
+    "surname": "Бирюковa",
+    "subject": "Математика",
+    "mark": 4
+  },
+  {
+    "surname": "Бирюковa",
+    "subject": "Программирование",
+    "mark": 5
+  },
+  {
+    "surname": "Ситниковa",
+    "subject": "Физика",
+    "mark": 5
+  },
+  {
+    "surname": "Ситниковa",
+    "subject": "История",
+    "mark": 2
+  },
+  {
+    "surname": "Ситниковa",
+    "subject": "Математика",
+    "mark": 4
+  },
+  {
+    "surname": "Лобанов",
+    "subject": "Физика",
+    "mark": 5
+  },
+  {
+    "surname": "Бирюковa",
+    "subject": "История",
+    "mark": 5
+  },
+  {
+    "surname": "Лобанов",
+    "subject": "История",
+    "mark": 2
+  }
+]
